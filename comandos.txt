@@ -1,0 +1,9 @@
+Comandos para git:
+
+cd= Change directory (cambiar de directorio)
+touch= Crear archivo
+rm= remove (borrar archivos)
+status= como esta...
+git restore= restaurar archivo
+add= agregar
+list
